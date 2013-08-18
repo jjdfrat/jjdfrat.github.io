@@ -1,0 +1,29 @@
+body {
+    background: url(../images/bg.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: white;
+}
+
+.title {
+    text-align: center ;
+    margin-top: 100pt;
+}
+
+.contacts {
+    text-align: center;
+    font-size: 18pt;
+    font-family: helvetica, sans-serif;
+    margin-top: 100pt;
+}
+
+a:link {
+    color: white;
+    text-decoration: none;
+}
+a:hover {
+    color: yellow;
+    text-decoration: underline;
+}
